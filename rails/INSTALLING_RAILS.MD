@@ -1,5 +1,7 @@
 # INSTALLING RAILS
 
+![Rails](ror.png)
+
 ### RUBY ON RAILS IN UBUNTU 17.04
 1. **Installing Ruby 2.4.1:**
     ```shell
