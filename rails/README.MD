@@ -1,6 +1,8 @@
-# Ruby On Rails Guide
-
+# Guia Ruby On Rails
 ![Rails](images/ror.png)
 
-# Summary
-- [Installing Ruby On Rails](https://github.com/Maikoncanuto/guides/blob/master/rails/guide/INSTALLING_RAILS.MD)
+# Sumário
+1. [Instalação:](https://github.com/Maikoncanuto/guides/blob/master/rails/guide/INSTALANDO_RAILS.MD)
+    1. [Ubuntu:](https://github.com/Maikoncanuto/guides/blob/master/rails/guide/INSTALANDO_RAILS.MD#ruby-on-rails-no-ubuntu-1704)
+    2. [Windows:](https://github.com/Maikoncanuto/guides/blob/master/rails/guide/INSTALANDO_RAILS.MD#ruby-on-rails-no-windows)
+
