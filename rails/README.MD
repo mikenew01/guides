@@ -1,4 +1,4 @@
-# Guia Ruby On Rails
+# Guia de Ruby On Rails
 ![Rails](images/ror.png)
 
 # Sumário
